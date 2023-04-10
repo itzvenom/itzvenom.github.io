@@ -1,8 +1,10 @@
-# Lisbon-ops-301n1 Reading Notes
+# Reading Notes
 
-Tracking of observations and questions from the reading assignments throughout my [CodeFellows Ops 301: Networking and Systems Administration](https://www.codefellows.org/courses/ops-301/networking-and-systems-administration/) course by [Academia de Código_](https://www.cybersecurity.academiadecodigo.org/)
+Tracking of observations and questions from the reading assignments throughout my [CodeFellows Ops 301: Networking and Systems Administration](https://www.codefellows.org/courses/ops-301/networking-and-systems-administration/) and [CodeFellows Ops 401: Cybersecurity Engineering](https://www.codefellows.org/courses/ops-401/cybersecurity-engineering/) course by [Academia de Código_](https://www.cybersecurity.academiadecodigo.org/)
 
-## TABLE OF CONTENTS:
+## Ops 301: Networking and Systems Administration
+
+### TABLE OF CONTENTS:
 
 [Wiki: Home](https://github.com/itzvenom/reading-notes/wiki)
 
@@ -36,3 +38,4 @@ Tracking of observations and questions from the reading assignments throughout m
 
 [Read: Class 14 - Diversity, Equity, Inclusion, and Belonging](https://github.com/itzvenom/reading-notes/wiki/Read:-Class-14:-Diversity,-Equity,-Inclusion,-and-Belonging)
 
+## Ops 401: Cybersecurity Engineering
