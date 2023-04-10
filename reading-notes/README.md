@@ -4,7 +4,7 @@ Tracking of observations and questions from the reading assignments throughout m
 
 - ## [Lisbon-ops-301n1 Reading Notes](https://github.com/itzvenom/lisbon-ops-301n1-reading-notes)
 
-## TABLE OF CONTENTS:
+- ## TABLE OF CONTENTS:
 
 [Wiki: Home](https://github.com/itzvenom/reading-notes/wiki)
 
